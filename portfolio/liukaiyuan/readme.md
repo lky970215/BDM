@@ -1,9 +1,8 @@
-# Hello everyone
+# Hello everyone,I am LiuKaiyuan
 
 <p align="center">
-  <a href="https://github.com/drshahizan/BDM/blob/main/portfolio/liukaiyuan/liukaiyuan.jpg">
-    <img src="https://github.com/drshahizan/BDM/blob/main/portfolio/liukaiyuan/liukaiyuan.jpg" width=230 height=275>
-  </a>
+  <img src="liukaiyuan.jpg" alt="Profile Picture" width="30%" height="30%">
+</a>
 
 <p align="center">
 
